@@ -1,0 +1,22 @@
+{
+    "name": "sabmeua/ci-dynamodb-session-driver",
+    "description": "A DynamoDB session driver for CodeIgniter 3.x",
+    "type": "library",
+    "keywords": [
+        "codeigniter",
+        "dynamodb",
+        "session",
+        "aws"
+    ],
+    "require": {
+        "aws/aws-sdk-php": "3.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sabmeua",
+            "email": "sabme.ua@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
